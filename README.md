@@ -1,12 +1,12 @@
 # fMRI - Single Parcellation
 
-Code for Non-negative Matrix Factorization and MS-HBM, developed for the manuscript ""
-
+Code for Non-negative Matrix Factorization and MS-HBM, developed for the manuscript "A Connectional Gradient of Individual Variability across Functional Network Edges"
 
 
 ### What makes your brain unique? 
 
 > A summary of the research project
+<img width="953" alt="image" src="https://github.com/selina-lii/fMRI_individual_parcellation/assets/80687346/5d8eff17-8b70-4b3d-96ac-be66b3080467">
 
 
 <br>
@@ -78,6 +78,7 @@ in a way that benefits us clinically and in our daily lives.
 
 Selina Li @ 2023
 
+<img width="854" alt="image" src="https://github.com/selina-lii/fMRI_individual_parcellation/assets/80687346/bda8f1a1-ca03-424b-9a74-8f17a64a55e3">
 
 
 
