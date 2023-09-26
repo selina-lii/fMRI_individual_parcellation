@@ -77,9 +77,7 @@ in a way that benefits us clinically and in our daily lives.
 <br>
 
 Selina Li @ 2023
-
-<img width="854" alt="image" src="https://github.com/selina-lii/fMRI_individual_parcellation/assets/80687346/bda8f1a1-ca03-424b-9a74-8f17a64a55e3">
-
+<img width="404" alt="image" src="https://github.com/selina-lii/fMRI_individual_parcellation/assets/80687346/f738647a-d156-4e95-8c76-6112eff95166">
 
 
 
